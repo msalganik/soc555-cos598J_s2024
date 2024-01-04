@@ -28,3 +28,11 @@ Is everything predictable given enough data and powerful algorithms? This semina
 - Students will be able to evaluate the appropriateness of prediction as a scientific or policy goal.
 - Students will be able to make predictions about the future of prediction.
 - Students will be able to create new research that helps understand the limits of predictability.
+
+# For people who can't take this course
+
+If you are interested in these topics but can't enroll in this course (e.g., because you are not a student at Princeton) you can still:
+
+- Follow Matt on <a href="https://bsky.app/profile/msalganik.bsky.social">Bluesky</a> or <a href="https://twitter.com/msalganik">X/Twitter</a>
+- Follow Arvind on <<a href="https://twitter.com/random_walker">X/Twitter</a>
+- Subscribe to Arvind's Substack (co-authors with Sayash Kapoor): <a href="https://www.aisnakeoil.com/">AI Snake Oil</a>
