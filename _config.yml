@@ -4,10 +4,10 @@
 courseName: Limits to Prediction
 
 # small title that is at the top of every page
-subtitle: SOC555/COS597J, Spring 2024, Princeton University
+subtitle: SOC555/COS598J, Spring 2024, Princeton University
 
 # baseurl is the same as the name of the repository
-baseurl: /soc555-cos597J_s2024
+baseurl: /soc555-cos598J_s2024
 
 # url where the required reading is available to download
 docsUrl: ""
