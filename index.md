@@ -9,7 +9,7 @@ menuPosition: 1
   <h1 class="display-4">Limits to Prediction</h1>
   <p class="lead">With enough data and the right algorithms does everything become predictable?</p>
   <ul>
-    <li>SOC 555/COS598J, Princeton University, Spring 2024</li>
+    <li>Sociology 555/Computer Science 598J, Princeton University, Spring 2024</li>
     <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a></li>
     <li>Monday and Wednesday, 10:00am - 11:20am</li>
     <li>Location TBD</li>
