@@ -5,5 +5,12 @@ menuItem: Assignments
 menuPosition: 6
 ---
 
-Coming soon! To get a sense of what these might be, <a href="https://msalganik.github.io/cos597E-soc555_f2020/assignments.html">see the assignments from the last time we taught this course</a>.
+There will be several assignments in this class. 
 
+Here are the ones that we know about now (more coming soon).
+
+- Participate in the <a href="https://stulp.gmw.rug.nl/prefer/">Predicting Fertility data challenge (PreFer).</a>
+ 
+    - Complete your application by Sunday, March 24, 2024.
+    - Submit a model by the last day of classes, Friday, April 26, 2024.  
+    - Some students may choose to continue to develop their submissions as their final project for this class.
