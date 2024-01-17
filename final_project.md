@@ -17,7 +17,7 @@ A key element of this course is the final project. You will work on your project
 
 ## Expectations
 
-We’ll evaluate your project based on the creativity of your ideas, the thoroughness of your investigation, the quality of your writing, as well as connecting your project to related work. It's basically like a research paper, except that you're probably tackling a more modest problem, and we won't penalize you if you accidentally missed prior work. See "Grading Rubric" below for more details.
+We will evaluate your project based on the creativity of your ideas, the thoroughness of your investigation, the quality of your writing, as well as connecting your project to related work. It's basically like a research paper, except that you're probably tackling a more modest problem, and we won't penalize you if you accidentally missed prior work. See "Grading Rubric" below for more details.
 
 #### Code submission
 
