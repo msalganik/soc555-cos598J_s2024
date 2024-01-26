@@ -13,7 +13,7 @@ menuPosition: 1
     <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a></li>
     <li>Monday and Wednesday, 10:00am - 11:20am</li>
     <li>Location TBD</li>
-    <li>GitHub, Canvas, Ed (Coming soon)</li>
+    <li>[GitHub](https://github.com/msalganik/soc555-cos598J_s2024), [Canvas](https://princeton.instructure.com/courses/14448), [Ed](https://edstem.org/us/courses/55406/discussion/)</li>
   </ul>
 </div>
 
@@ -36,3 +36,4 @@ If you are interested in these topics but can't enroll in this course (e.g., bec
 - Follow Matt on <a href="https://bsky.app/profile/msalganik.bsky.social">Bluesky</a> or <a href="https://twitter.com/msalganik">X/Twitter</a>
 - Follow Arvind on <a href="https://twitter.com/random_walker">X/Twitter</a>
 - Subscribe to Arvind's Substack (co-authored with Sayash Kapoor): <a href="https://www.aisnakeoil.com/">AI Snake Oil</a>
+- Subscribe to Matt's blog: <a href="https://forms.gle/ayVARZ1pgmSLxRcdA">A clearer view of the foggy future: Ideas, stories, and intellectual mysteries to help us get smarter about the future</a>
