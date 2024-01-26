@@ -2,7 +2,7 @@
 title: Assignments
 layout: home
 menuItem: Assignments
-menuPosition: 6
+menuPosition: 3
 ---
 
 There will be several assignments in this class. 
