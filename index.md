@@ -13,7 +13,7 @@ menuPosition: 1
     <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a></li>
     <li>Monday and Wednesday, 10:00am - 11:20am</li>
     <li>Location TBD</li>
-    <li>[GitHub](https://github.com/msalganik/soc555-cos598J_s2024), [Canvas](https://princeton.instructure.com/courses/14448), [Ed](https://edstem.org/us/courses/55406/discussion/)</li>
+    <li><a href="https://github.com/msalganik/soc555-cos598J_s2024">GitHub</a>, <a href="https://princeton.instructure.com/courses/14448">Canvas</a>, <a href="https://edstem.org/us/courses/55406/discussion/">Ed</a></li>
   </ul>
 </div>
 

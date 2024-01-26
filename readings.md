@@ -15,6 +15,8 @@ No required reading before class.
 
 ### Wednesday, January 31: Background (Arvind)
 
+- Pre-read coming soon
+
 - Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
@@ -22,8 +24,6 @@ No required reading before class.
 ### Monday, February 5: Why do we make predictions? (Matt)
 
 - Pre-read coming soon
-
-- Franklin (1928) ["Weather prediction and weather control"](https://www.jstor.org/stable/1654330), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
 - Dowding and Miller. (2019) ["On prediction in political science"](https://dx.doi.org/10.1111/1475-6765.12319), _European Journal of Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
@@ -39,6 +39,8 @@ No required reading before class.
 
 ### Wednesday, February 7: Ethics (Arvind)
 
+- Pre-read coming soon
+
 ### Monday, February 12: Geopolitics (Matt)
 
 - Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_:
@@ -49,7 +51,7 @@ No required reading before class.
   - [Technical Appendix](https://www.jstor.org/stable/j.ctt7spbt.14) Read only up to section "Adjustments of Probability Scores to Address Conceptual Objections", p 273-283. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
   - [Preface to the 2017 edition](https://www.jstor.org/stable/j.ctt1pk86s8.5), p. xvii-xxii. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
-### Wednesday, February 14 : Geopolitics, part 2 (Matt)
+### Wednesday, February 14: Geopolitics, part 2 (Matt)
 
 - Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
@@ -73,7 +75,7 @@ No required reading before class.
   - Chapter 2: ["A Journey into Chaos"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), Read only the section "Chaos in Action", p 25-39. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
   - [The Lorenz attractor](https://marksmath.org/visualization/LorenzExperiment/) by Mark McLure. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
-### Wednesday, February 19: Weather (Matt)
+### Wednesday, February 19: Weather, part 2 (Matt)
 
 - Lorenz (1993) _The Essence of Chaos_:
   - Chapter 3: ["Our Chaotic Weather"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 77-110. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
