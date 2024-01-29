@@ -15,7 +15,7 @@ No required reading before class.
 
 ### Wednesday, January 31: Background (Arvind)
 
-- [“Pre-read by Matthew J. Salganik and Arvind Narayanan“](https://msalganik.github.io/soc555-cos598J_s2024/class-materials/2024-01-31-background/limits-to-prediction-pre-read.pdf)
+- [Pre-read by Matthew J. Salganik and Arvind Narayanan](https://msalganik.github.io/soc555-cos598J_s2024/class-materials/2024-01-31-background/limits-to-prediction-pre-read.pdf) <img src=“https://msalganik.github.io/soc555-cos598J_s2024/images/open.png” style=“display: inline; height: 14px;” />
 - Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
