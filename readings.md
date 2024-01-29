@@ -23,11 +23,10 @@ No required reading before class.
 
 - Pre-read coming soon
 - Dowding and Miller. (2019) ["On prediction in political science"](https://dx.doi.org/10.1111/1475-6765.12319), _European Journal of Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-- Dowding (2021) ["Why forecast? The value of forecasting to political science"](https://dx.doi.org/10.1111/1475-6765.12319), _PS: Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-- Hofman et al. (2021) ["Integrating explanation and prediction in computational social science"](https://rdcu.be/dwUx5), _Nature_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Kleinberg et al. (2015) ["Prediction Policy Problems"](https://dx.doi.org/10.1257/aer.p20151023), _American Economic Review_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Perdomo (2023) ["The Relative Value of Prediction in Algorithmic Decision Making"](https://arxiv.org/abs/2312.08511), _Working paper_. Section 1 only. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Liu et al. (2023) ["On the Actionability of Outcome Prediction"](https://arxiv.org/abs/2309.04470) _Working paper_. Section 1 only. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Hofman et al. (2021) ["Integrating explanation and prediction in computational social science"](https://rdcu.be/dwUx5), _Nature_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
 ### Wednesday, February 7: Ethics (Arvind)
 
