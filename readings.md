@@ -16,7 +16,6 @@ No required reading before class.
 ### Wednesday, January 31: Background (Arvind)
 
 - Pre-read coming soon
-
 - Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
@@ -24,17 +23,11 @@ No required reading before class.
 ### Monday, February 5: Why do we make predictions? (Matt)
 
 - Pre-read coming soon
-
 - Dowding and Miller. (2019) ["On prediction in political science"](https://dx.doi.org/10.1111/1475-6765.12319), _European Journal of Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Dowding (2021) ["Why forecast? The value of forecasting to political science"](https://dx.doi.org/10.1111/1475-6765.12319), _PS: Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Hofman et al. (2021) ["Integrating explanation and prediction in computational social science"](https://rdcu.be/dwUx5), _Nature_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Kleinberg et al. (2015) ["Prediction Policy Problems"](https://dx.doi.org/10.1257/aer.p20151023), _American Economic Review_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Perdomo (2023) ["The Relative Value of Prediction in Algorithmic Decision Making"](https://arxiv.org/abs/2312.08511), _Working paper_. Section 1 only. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-
 - Liu et al. (2023) ["On the Actionability of Outcome Prediction"](https://arxiv.org/abs/2309.04470) _Working paper_. Section 1 only. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
 ### Wednesday, February 7: Ethics (Arvind)
@@ -55,15 +48,10 @@ No required reading before class.
 
 - Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Turchin (2018) ["Arise 'cliodynamics"](https://doi.org/10.1038/454034a), _Nature_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Zhao, Dingxin (2006). ["Historical Dynamics: Why States Rise and Fall. By Peter Turchin"](https://www.jstor.org/stable/10.1086/507802), _American Journal of Sociology_.
-
 - Hegre et al. (2013) ["Predicting Armed Conflict, 2010–2050"](https://www.jstor.org/stable/24016137), _International Studies Quarterly_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Bowlsby et al. (2021) ["The Future in a Moving Target: Predicting Political Instability"](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/future-is-a-moving-target-predicting-political-instability/0028744BE1AFF83F879E7759D798D88A), _British Journal of Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Hegre et al. (2021) ["Can We Predict Armed Conflict? How the First 9 Years of Published Forecasts Stand Up to Reality"](https://doi.org/10.1093/isq/sqaa094), _International Studies Quarterly_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
 ### Monday, February 17: Weather (Matt)
@@ -125,11 +113,11 @@ No required reading before class.
 
 ### Wednesday, April 3: Time (Arvind)
 
-### Monday, April 8: Second taming of change? Predictions about individuals and populations (Matt)
+### Monday, April 8: Second taming of chance? Predictions about individuals and populations (Matt)
 
 ### Wednesday, April 10: What's your West Antarctic Iceberg? Isolating sources of uncertainty (Matt)
 
-### Monday, April 15: Killing Laplace's Daemon (Matt)    
+### Monday, April 15: Killing Laplace's Demon (Matt)    
 
 ### Wednesday, April 17: Strategic behavior (Arvind)
 
