@@ -18,7 +18,6 @@ No required reading before class.
 - [Pre-read by Matthew J. Salganik and Arvind Narayanan]( https://msalganik.github.io/soc555-cos598J_s2024/class-materials/2024-01-31-background/limits-to-prediction-pre-read.pdf) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-- Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
 ### Monday, February 5: Why do we make predictions? (Matt)
 
@@ -106,6 +105,7 @@ No required reading before class.
 - McCutcheon, [The logarithmic scoring rule of decision theory](http://web0.msci.memphis.edu/~randall/preprints/Pool3.pdf) (Section 5 is optional)
 - Kvålseth, [Cautionary note about R²](https://www.jstor.org/stable/2683704?seq=1), _The American Statistician_.
 - Ford (2015), [Is R-squared Useless?](https://data.library.virginia.edu/is-r-squared-useless/).
+- Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
 ### Wednesday, March 27: Uncertainty about uncertainty (Matt)
 
