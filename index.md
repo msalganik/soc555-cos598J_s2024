@@ -9,13 +9,22 @@ menuPosition: 1
   <h1 class="display-4">Limits to Prediction</h1>
   <p class="lead">With enough data and the right algorithms does everything become predictable?</p>
   <ul>
-    <li>Sociology 555/Computer Science 598J, Princeton University, Spring 2024</li>
-    <li>Monday and Wednesday, 10:00am - 11:20am</li>
-    <li>Location TBD</li>
-    <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a></li>
-    <li>Office Hours by appointment</li>
-    <li>Teaching Assistant: Shreyas Gandlur (sgandlur@princeton.edu)</li>
-    <li>Office Hours: Thursday, 2:00pm - 3:00pm; Sherrerd Hall, 3rd Floor Open Space</li>
+    <li>Sociology 555/Computer Science 598J, Princeton University, Spring 2024
+        <ul>
+            <li>Monday and Wednesday, 10:00am - 11:20am</li>
+            <li>Location TBD</li>
+        </ul>
+    </li>
+    <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a>
+        <ul>
+            <li>Office Hours by appointment</li>
+        </ul>
+    </li>
+    <li>Teaching Assistant: Shreyas Gandlur (sgandlur@princeton.edu)
+        <ul>
+            <li>Office Hours: Thursday, 2:00pm - 3:00pm; Sherrerd Hall, 3rd Floor Open Space</li>
+        </ul>
+    </li>
     <li><a href="https://github.com/msalganik/soc555-cos598J_s2024">GitHub</a>, <a href="https://princeton.instructure.com/courses/14448">Canvas</a>, <a href="https://edstem.org/us/courses/55406/discussion/">Ed</a></li>
   </ul>
 </div>
