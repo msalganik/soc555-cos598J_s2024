@@ -21,7 +21,7 @@ No required reading before class.
 
 ### Monday, February 5: Why do we make predictions? (Matt)
 
-- Pre-read coming soon
+- <a href="https://docs.google.com/document/d/1s85aqP89jCLjuJ5WbEmVDHfx1Heqz0cKhQc_hrMT-WA/edit?usp=sharing">Pre-read</a>
 - Dowding and Miller. (2019) ["On prediction in political science"](https://dx.doi.org/10.1111/1475-6765.12319), _European Journal of Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Kleinberg et al. (2015) ["Prediction Policy Problems"](https://dx.doi.org/10.1257/aer.p20151023), _American Economic Review_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Perdomo (2023) ["The Relative Value of Prediction in Algorithmic Decision Making"](https://arxiv.org/abs/2312.08511), _Working paper_. Section 1 only. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
