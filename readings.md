@@ -33,10 +33,10 @@ No required reading before class.
 - [Pre-read](https://docs.google.com/document/d/e/2PACX-1vRfRzMdzUrLWxA5dIByb_W56q6hkrn-VfrH2DWUCNjk9yPbWU_ZY0T4Al0CXye0NMOacHS4XdTqFILY/pub)
 - Johnson, R.A., & Zhang, S. (2022). ["What is the Bureaucratic Counterfactual? Categorical versus Algorithmic Prioritization in US Social Policy,"](https://dl.acm.org/doi/abs/10.1145/3531146.3533223) _Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency_, 1671–1682.
 - Wang, A., Kapoor, S., Barocas, S., & Narayanan, A. (2024). ["Against predictive optimization: On the legitimacy of decision-making algorithms that optimize predictive accuracy,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238015) _Journal of Responsible Computing_.
-- Obermeyer et al. 2019. [Dissecting racial bias in an algorithm used to manage the health of populations.](https://science.sciencemag.org/content/366/6464/447) Science.
-- Benjamin. 2019. [Assessing Risk, Automating Racism.](https://science.sciencemag.org/content/366/6464/421) Science.
-- Angwin, Larson, Mattu, Kirchner. 2016. [Machine bias.](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) ProPublica.
-- Angwin & Larson. 2016. [Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say.](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say) ProPublica.
+- Obermeyer et al. (2019). [Dissecting racial bias in an algorithm used to manage the health of populations.](https://science.sciencemag.org/content/366/6464/447) Science.
+- Benjamin. (2019). [Assessing Risk, Automating Racism.](https://science.sciencemag.org/content/366/6464/421) Science.
+- Angwin, Larson, Mattu, Kirchner. (2016). [Machine bias.](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) ProPublica.
+- Angwin & Larson. (2016). [Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say.](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say) ProPublica.
 
 
 ### Monday, February 12: Geopolitics (Matt)
