@@ -8,6 +8,7 @@ menuPosition: 2
 
 This course is organized in three main chunks.  In the two weeks, we will discuss some core tensions that run throughout the course.  In the next 5 weeks, we will learn about predictability--and its limits---in different substantive domains.  Then, we will spend the remaining 5 weeks on themes that cut across different substantive domains.
 
+Class slides are available to enrolled students via the Ed Resources page.
 
 ### Monday, January 29: Introduction (Matt and Arvind)
 
