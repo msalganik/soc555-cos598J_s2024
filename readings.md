@@ -30,7 +30,7 @@ No required reading before class.
 
 ### Wednesday, February 7: Ethics (Arvind)
 
-- Pre-read coming soon
+- Pre-read coming soon 
 
 ### Monday, February 12: Geopolitics (Matt)
 
