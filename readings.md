@@ -42,6 +42,7 @@ No required reading before class.
 
 ### Monday, February 12: Geopolitics (Matt)
 
+- [Pre-read](https://docs.google.com/document/d/1YhLHa07GN2uCiC6PW29SbPTXHM4mXOnaAH4wEm_NKkU/edit?usp=sharing)
 - Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_:
   - [Preface](https://www.jstor.org/stable/j.ctt7spbt.4), p xi-xvi. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
   - [Chapter 1, Quantifying the Unquantifiable](https://www.jstor.org/stable/j.ctt7spbt.5) p 1-24. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
@@ -52,6 +53,7 @@ No required reading before class.
 
 ### Wednesday, February 14: Geopolitics, part 2 (Matt)
 
+- Pre-read coming soon
 - Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Turchin (2018) ["Arise 'cliodynamics"](https://doi.org/10.1038/454034a), _Nature_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
