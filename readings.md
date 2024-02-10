@@ -53,7 +53,7 @@ No required reading before class.
 
 ### Wednesday, February 14: Geopolitics, part 2 (Matt)
 
-- Pre-read coming soon
+- [Pre-read](https://docs.google.com/document/d/16GbYiUzssK6qncfS-ruk0HEb7Bat5Is2GL00AeAU5Fw/edit?usp=sharing)
 - Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Turchin (2018) ["Arise 'cliodynamics"](https://doi.org/10.1038/454034a), _Nature_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
