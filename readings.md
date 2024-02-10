@@ -58,8 +58,6 @@ No required reading before class.
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Turchin (2018) ["Arise 'cliodynamics"](https://doi.org/10.1038/454034a), _Nature_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Zhao, Dingxin (2006). ["Historical Dynamics: Why States Rise and Fall. By Peter Turchin"](https://www.jstor.org/stable/10.1086/507802), _American Journal of Sociology_.
-- Hegre et al. (2013) ["Predicting Armed Conflict, 2010–2050"](https://www.jstor.org/stable/24016137), _International Studies Quarterly_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-- Bowlsby et al. (2021) ["The Future in a Moving Target: Predicting Political Instability"](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/future-is-a-moving-target-predicting-political-instability/0028744BE1AFF83F879E7759D798D88A), _British Journal of Political Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Hegre et al. (2021) ["Can We Predict Armed Conflict? How the First 9 Years of Published Forecasts Stand Up to Reality"](https://doi.org/10.1093/isq/sqaa094), _International Studies Quarterly_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
 ### Monday, February 17: Weather (Matt)
