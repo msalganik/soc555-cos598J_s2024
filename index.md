@@ -22,7 +22,7 @@ menuPosition: 1
     </li>
     <li>Teaching Assistant: Shreyas Gandlur (sgandlur@princeton.edu)
         <ul>
-            <li>Office Hours: Thursday, 2:00pm - 3:00pm; Sherrerd Hall, 3rd Floor Open Space</li>
+            <li>Office Hours: Tuesdays, 2:00pm - 3:00pm; Sherrerd Hall, 3rd Floor Open Space</li>
         </ul>
     </li>
     <li><a href="https://github.com/msalganik/soc555-cos598J_s2024">GitHub</a>, <a href="https://princeton.instructure.com/courses/14448">Canvas</a>, <a href="https://edstem.org/us/courses/55406/discussion/">Ed</a></li>
