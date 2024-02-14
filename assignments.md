@@ -5,16 +5,15 @@ menuItem: Assignments
 menuPosition: 3
 ---
 
-## Assignment 1: Evaluation and Extension of Hegre et al.'s predictions of armed conflict
+## Assignment 1: Evaluation and extension of Hegre et al.'s predictions of armed conflict
+***
 
 ### Description
 
 [Hegre et al. (2013)](https://www.jstor.org/stable/24016137) predict “changes in global and regional incidences of armed conflict for the 2010-2050 period.” [Hegre et al. (2021)](https://academic.oup.com/isq/article/65/3/660/6124679) evaluate these predictions over the 2010-2018 period. Both papers provide their code in their supplemental materials, and the UCDP/PRIO Armed Conflict Data Set is publicly available:
 * [Hegre et al. (2013) replication materials](https://havardhegre.net/replication-data/)
 * [Hegre et al. (2021) supplementary materials](https://academic.oup.com/isq/article/65/3/660/6124679?login=false#supplementary-data)
-
   * Tip: the authors include a readme file on running their code to reproduce visualizations from their article. If you want to reproduce those visualizations, you may need to make some tweaks to the dependency files, run.sh, and/or some of the R files to get the code to run. 
-
 * [UCDP/PRIO Armed Conflict Data Set](https://ucdp.uu.se/downloads/)
 
 You have two goals for this assignment:
@@ -22,7 +21,6 @@ You have two goals for this assignment:
 1. **Evaluation.** Perform your own evaluation of the quality and value of the 2013 paper’s predictions over the 2010-2018 period. You have complete freedom on how you evaluate these predictions, as long as your decisions are justified. You may use the 2021 paper for inspiration, but your goal is not to simply replicate their evaluation procedure or results.
 
 2. **Extension.** Extend the 2013 and/or the 2021 paper(s) in some way. Here are some possible directions, but please do not feel limited by these ideas:
-
 * *Calibration.* How calibrated are the 2013 paper’s risk scores? Table 1 suggests that reducing the classification threshold can substantially increase the true positive rate without a large increase in the false positive rate.
 * *Longer-run predictions.* How well do longer-run predictions from the 2013 paper’s models hold up? You could consider generating additional predictions from the 1970-2000 model and/or using additional data from the 2022 update of the UCDP/PRIO Armed Conflict Data Set.
   * *Time-varying drivers.* Relatedly, the 2021 paper states that “the results indicate that the drivers of armed conflict are fairly stable over time” because the model did not perform much worse over the 2010-2018 period than during the 2001-2009 period of the original study. But note that the latter and former are both the first 9 years after the cutoff dates for their respective models, and perhaps drivers do not shift in such a short term. Is there another way to get at this question of time variance of drivers?
@@ -49,7 +47,7 @@ This assignment is worth 25% of your course grade. We will evaluate you on probl
 
 **Please submit on time. This being a grad seminar, adjudicating lateness penalties and such is not a good use of instructor time. If you are unable to submit on time due to unforeseeable circumstances, reach out to us.**
 
-====
+***
 
 We will have other assignments in this class. Here are the ones that we know about.
 
