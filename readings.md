@@ -62,6 +62,7 @@ No required reading before class.
 
 ### Monday, February 17: Weather (Matt)
 
+- [Watch pre-read](https://www.youtube.com/watch?v=7fa4j2bfrxU)
 - Watch [The Science Behind the Butterfly Effect](https://www.youtube.com/watch?v=fDek6cYijxI) by Veritasium <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Lorenz (1993) _The Essence of Chaos_:
   - Appendix 1: ["The Butterfly Effect"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 179-182. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
