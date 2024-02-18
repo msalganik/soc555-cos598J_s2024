@@ -73,17 +73,11 @@ No required reading before class.
 ### Wednesday, February 19: Weather, part 2 (Matt)
 
 - [Pre-read](https://docs.google.com/document/d/1Cnn1TgMn9jw3IbWGNSbzw-Z9cB9Tv7441xC_F-MVvhs/edit?usp=sharing)
-
-- Sutton (2019) ["The bitter lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), _blog post_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
+- Sutton (2019) ["The bitter lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), _Blog post_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Lynch (2008) ["The origins of computer weather prediction and climate modeling"](https://doi.org/10.1016/j.jcp.2007.02.034) _Journal of Computational Physics_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-
 - Schultz et al. (2021) ["Can deep learning beat numerical weather prediction?"](https://doi.org./10.1098/rsta.2020.0097), _Philosophical Transactions of the Royal Society A_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-
 - Google DeepMind (2023) ["Why AI Creates Better Weather Forecasts"](https://www.youtube.com/watch?v=-KFO0pES-zQ) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-
-- Lam et al. (2023) ["GraphCast: AI model for faster and more accurate global weather forecasting"](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" /> 
-
+- Lam et al. (2023) ["GraphCast: AI model for faster and more accurate global weather forecasting"](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/), _Blog post_ <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" /> 
 - Lam et al. (2023) ["Learning skillful medium-range global weather forecasting"](https://www.science.org/stoken/author-tokens/ST-1550/full), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" /> 
 
 ### Monday, February 24: Fads (Arvind)
