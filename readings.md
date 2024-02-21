@@ -80,18 +80,19 @@ No required reading before class.
 - Lam et al. (2023) ["GraphCast: AI model for faster and more accurate global weather forecasting"](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/), _Blog post_ <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" /> 
 - Lam et al. (2023) ["Learning skillful medium-range global weather forecasting"](https://www.science.org/stoken/author-tokens/ST-1550/full), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" /> 
 
-### Monday, February 24: Fads (Arvind)
+### Monday, February 24: Cultural products and careers (Arvind)
 
 - Hedstrom (2006) ["Experimental Macro Sociology: Predicting the Next Best Seller"](http://dx.doi.org/10.1126/science.1124707), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Salganik, Dodds, Watts (2006) ["Inequality and unpredictability in an artificial cultural market"](https://dx.doi.org/10.1126/science.1121066), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-- Martin, Hofman, Sharma, Anderson, Watts (2016) ["Exploring Limits to Prediction in Complex Social Systems"](https://arxiv.org/abs/1602.01013), _WWW_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-- Hofman, Sharma, Watts (2017) ["Prediction and explanation in social systems"](https://dx.doi.org/10.1126/science.aal3856), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Frank (2016) ["Success and luck : good fortune and the myth of meritocracy"](https://www-degruyter-com.ezproxy.princeton.edu/document/doi/10.1515/9781400880270/html#contents) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" /> Read chapter 2, chapter 3, and appendix 1.
+- Goel, Hofman, Lahaie, Pennock, Watts (2010) ["Predicting consumer behavior with Web search"](https://doi.org/10.1073/pnas.1005962107), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
-### Wednesday, February 26: Fads (Arvind)
+### Wednesday, February 26: Social media cascades (Arvind)
 
 - Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997), _WWW_. (Section 4 is optional) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Goel ["What Can Search Predict?"](http://messymatters.com/what-can-search-predict/) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-- Goel, Hofman, Lahaie, Pennock, Watts (2010) ["Predicting consumer behavior with Web search"](https://doi.org/10.1073/pnas.1005962107), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Hofman, Sharma, Watts (2017) ["Prediction and explanation in social systems"](https://dx.doi.org/10.1126/science.aal3856), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Martin, Hofman, Sharma, Anderson, Watts (2016) ["Exploring Limits to Prediction in Complex Social Systems"](https://arxiv.org/abs/1602.01013), _WWW_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
 ### Monday, March 4: X-risk (Arvind)
 
