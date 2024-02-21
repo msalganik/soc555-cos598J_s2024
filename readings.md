@@ -82,6 +82,7 @@ No required reading before class.
 
 ### Monday, February 24: Cultural products and careers (Arvind)
 
+- Pre-read: available to enrolled students on the Ed Resources page.
 - Hedstrom (2006) ["Experimental Macro Sociology: Predicting the Next Best Seller"](http://dx.doi.org/10.1126/science.1124707), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Salganik, Dodds, Watts (2006) ["Inequality and unpredictability in an artificial cultural market"](https://dx.doi.org/10.1126/science.1121066), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Frank (2016) ["Success and luck : good fortune and the myth of meritocracy"](https://www-degruyter-com.ezproxy.princeton.edu/document/doi/10.1515/9781400880270/html#contents) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" /> Read chapter 2, chapter 3, and appendix 1.
