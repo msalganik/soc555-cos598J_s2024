@@ -92,6 +92,7 @@ No required reading before class.
 
 ### Wednesday, February 26: Social media cascades (Arvind)
 
+- Pre-read: available to enrolled students on the Ed Resources page.
 - Narayanan (2023). ["Understanding Social Media Recommendation Algorithms"](Understanding Social Media Recommendation Algorithms) Knight First Amendment Institute. Read only the first six sections, up until "Viral Content Dominates Our Attention".
 - Martin, Hofman, Sharma, Anderson, Watts (2016) ["Exploring Limits to Prediction in Complex Social Systems"](https://arxiv.org/abs/1602.01013), _WWW_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997), _WWW_.  <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
