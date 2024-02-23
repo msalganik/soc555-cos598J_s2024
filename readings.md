@@ -92,10 +92,10 @@ No required reading before class.
 
 ### Wednesday, February 26: Social media cascades (Arvind)
 
-- Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997), _WWW_. (Section 4 is optional) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
-- Goel ["What Can Search Predict?"](http://messymatters.com/what-can-search-predict/) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-- Hofman, Sharma, Watts (2017) ["Prediction and explanation in social systems"](https://dx.doi.org/10.1126/science.aal3856), _Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Narayanan (2023). ["Understanding Social Media Recommendation Algorithms"](Understanding Social Media Recommendation Algorithms) Knight First Amendment Institute. Read only the first six sections, up until "Viral Content Dominates Our Attention".
 - Martin, Hofman, Sharma, Anderson, Watts (2016) ["Exploring Limits to Prediction in Complex Social Systems"](https://arxiv.org/abs/1602.01013), _WWW_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997), _WWW_. (Section 4 is optional) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Duffy, Pinch, Sannon, Sawey (2021) ["The Nested Precarities of Creative Labor on Social Media"](https://journals.sagepub.com/doi/full/10.1177/20563051211021368) Social Media + Society.
 
 ### Monday, March 4: X-risk (Arvind)
 
