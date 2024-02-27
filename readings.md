@@ -98,9 +98,14 @@ No required reading before class.
 - Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997), _WWW_.  <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Duffy, Pinch, Sannon, Sawey (2021) ["The Nested Precarities of Creative Labor on Social Media"](https://journals.sagepub.com/doi/full/10.1177/20563051211021368) Social Media + Society.
 
-### Monday, March 4: X-risk (Arvind)
+### Monday, March 4: Can advanced AI help predict the future? (Arvind)
 
-### Wednesday, March 6: X-risk (Arvind)
+- Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., et al. (2021). ["On the opportunities and risks of foundation models."](https://arxiv.org/abs/2108.07258) _arXiv preprint arXiv:2108.07258_.
+- Lee, T. B., & Trott, S. (2023). ["Large language models, explained with a minimum of math and jargon."](https://www.understandingai.org/p/large-language-models-explained-with) _Understanding AI_, 27, 2023.
+- Savcisens, G., Eliassi-Rad, T., Hansen, L. K., Mortensen, L. H., Lilleholt, L., Rogers, A., Zettler, I., & Lehmann, S. (2023). ["Using sequences of life-events to predict human lives."](https://www.nature.com/articles/s43588-023-00573-5) _Nature Computational Science_, 1-14. Nature Publishing Group US, New York.
+- Schoenegger, P., Park, P. S., Karger, E., & Tetlock, P. E. (2024). ["AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy."](https://arxiv.org/abs/2402.07862) _arXiv preprint arXiv:2402.07862_.
+
+### Wednesday, March 6: Predicting the future of advanced AI (Arvind)
 
 ### Spring break
 
