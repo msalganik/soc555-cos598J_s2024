@@ -100,7 +100,7 @@ No required reading before class.
 
 ### Monday, March 4: Can advanced AI help predict the future? (Arvind)
 
-- Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., et al. (2021). ["On the opportunities and risks of foundation models."](https://arxiv.org/abs/2108.07258) _arXiv preprint arXiv:2108.07258_.
+- Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., et al. (2021). ["On the opportunities and risks of foundation models."](https://arxiv.org/abs/2108.07258) _arXiv preprint arXiv:2108.07258_. Read only the Introduction.
 - Lee, T. B., & Trott, S. (2023). ["Large language models, explained with a minimum of math and jargon."](https://www.understandingai.org/p/large-language-models-explained-with) _Understanding AI_, 27, 2023.
 - Savcisens, G., Eliassi-Rad, T., Hansen, L. K., Mortensen, L. H., Lilleholt, L., Rogers, A., Zettler, I., & Lehmann, S. (2023). ["Using sequences of life-events to predict human lives."](https://www.nature.com/articles/s43588-023-00573-5) _Nature Computational Science_, 1-14. Nature Publishing Group US, New York. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Schoenegger, P., Park, P. S., Karger, E., & Tetlock, P. E. (2024). ["AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy."](https://arxiv.org/abs/2402.07862) _arXiv preprint arXiv:2402.07862_.
