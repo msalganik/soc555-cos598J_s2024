@@ -107,12 +107,19 @@ No required reading before class.
 - Schoenegger, P., Park, P. S., Karger, E., & Tetlock, P. E. (2024). ["AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy."](https://arxiv.org/abs/2402.07862) _arXiv preprint arXiv:2402.07862_.
 
 ### Wednesday, March 6: Predicting the future of advanced AI (Arvind)
+- [Pre-read](https://docs.google.com/document/d/e/2PACX-1vS6xanY6QigO1bWL5LbWsRDNKiTOIkFO3BNFs4sWX2sV_vjDLS80_mi66xVHt_BYAEKCR3hPk-AMAUq/pub)
+- Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus (2022). ["Emergent Abilities of Large Language Models"](https://arxiv.org/abs/2206.07682)
+- Ezra Karger, Josh Rosenberg, Zachary Jacobs, Molly Hickman, Rose Hadshar, Kayla Gamin, Taylor Smith, Bridget Williams, Tegan McCaslin, Stephen Thomas, Philip E. Tetlock (2023) ["Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament"](https://static1.squarespace.com/static/635693acf15a3e2a14a56a4a/t/64f0a7838ccbf43b6b5ee40c/1693493128111/XPT.pdf). Read the first 4 sections and the AI subsection of Section 5.
+- Clark R. Chapman, David Morrison (1994). ["Impacts on the Earth by asteroids and comets: assessing the hazard"](https://www.nature.com/articles/367033a0). 
+<img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Sayash Kapoor, Arvind Narayanan (2023). "AI and existential risk: a fork in the road". Available to enrolled students on Ed.
 
 ### Spring break
 
 ### Monday, March 18: Life trajectories, part 1 (Matt)
 
-- Garip (2020) ["What failure to predict life outcomes can teach us"](https://doi.org/10.1073/pnas.2003390117), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Garip (2020) ["What failure to predict life outcomes can teach us"](https://doi.org/10.1073/pnas.2003390117), _PNAS_. 
+<img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Salganik et al. (2020) ["Measuring the predictability of life outcomes with a scientific mass collaboration"](https://doi.org/10.1073/pnas.1915006117), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Bommasani et al. (2022) ["On the Opportunities and Risks of Foundation Models"](https://arxiv.org/abs/2108.07258), _Working paper_.  Just read section 1 (Introduction). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Savcisens et al. (2023) ["Using sequences of life-events to predict human lives"](https://doi.org/10.1073/pnas.1915006117), _Nature Computational Science_.  <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
