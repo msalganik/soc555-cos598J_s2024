@@ -108,9 +108,9 @@ No required reading before class.
 
 ### Wednesday, March 6: Predicting the future of advanced AI (Arvind)
 - [Pre-read](https://docs.google.com/document/d/e/2PACX-1vS6xanY6QigO1bWL5LbWsRDNKiTOIkFO3BNFs4sWX2sV_vjDLS80_mi66xVHt_BYAEKCR3hPk-AMAUq/pub)
-- Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus (2022). ["Emergent Abilities of Large Language Models"](https://arxiv.org/abs/2206.07682)
+- Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus (2022). ["Emergent Abilities of Large Language Models"](https://arxiv.org/abs/2206.07682). arXiv.
 - Ezra Karger, Josh Rosenberg, Zachary Jacobs, Molly Hickman, Rose Hadshar, Kayla Gamin, Taylor Smith, Bridget Williams, Tegan McCaslin, Stephen Thomas, Philip E. Tetlock (2023) ["Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament"](https://static1.squarespace.com/static/635693acf15a3e2a14a56a4a/t/64f0a7838ccbf43b6b5ee40c/1693493128111/XPT.pdf). Read the first 4 sections and the AI subsection of Section 5.
-- Clark R. Chapman, David Morrison (1994). ["Impacts on the Earth by asteroids and comets: assessing the hazard"](https://www.nature.com/articles/367033a0). 
+- Clark R. Chapman, David Morrison (1994). ["Impacts on the Earth by asteroids and comets: assessing the hazard"](https://www.nature.com/articles/367033a0). Nature 367, 33–40. 
 <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Sayash Kapoor, Arvind Narayanan (2023). "AI and existential risk: a fork in the road". Available to enrolled students on Ed.
 
