@@ -12,7 +12,7 @@ menuPosition: 1
     <li>Sociology 555/Computer Science 598J, Princeton University, Spring 2024
         <ul>
             <li>Monday and Wednesday, 10:00am - 11:20am</li>
-            <li>Location TBD</li>
+            <li>Location Friend Center 109</li>
         </ul>
     </li>
     <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a>
