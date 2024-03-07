@@ -11,9 +11,9 @@ A key element of this course is the final project. You will work on your project
 
 ## Schedule
 
-- Proposal due: TBD
-- Instructor feedback on proposal: TBD
-- Final project due: Tuesday, May 7, 2024 5pm ET (Dean’s Date)
+- Proposal due: **before class Wednesday, March 20, 2024**. Send an email to Shreyas at sgandlur@princeton.edu. Please send one email per group and include the names of all team members.
+- Instructor feedback on proposal: **before class Wednesday, March 27, 2024**.
+- Final project due: **Tuesday, May 7, 2024 5pm ET (Dean’s Date)**.
 
 ## Expectations
 
