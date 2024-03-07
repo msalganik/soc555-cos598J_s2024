@@ -118,12 +118,10 @@ No required reading before class.
 
 ### Monday, March 18: Life trajectories, part 1 (Matt)
 
-- Pre-read coming soon
+- [Pre-read](https://docs.google.com/document/d/1IrgJFLrQuxPtyQ4fRzW3IRtuucbn_57r4YC8PAiWdVM/edit?usp=sharing)
 - Garip (2020) ["What failure to predict life outcomes can teach us"](https://doi.org/10.1073/pnas.2003390117), _PNAS_. 
 <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Salganik et al. (2020) ["Measuring the predictability of life outcomes with a scientific mass collaboration"](https://doi.org/10.1073/pnas.1915006117), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-- Bommasani et al. (2022) ["On the Opportunities and Risks of Foundation Models"](https://arxiv.org/abs/2108.07258), _Working paper_.  Just read section 1 (Introduction). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
-- Savcisens et al. (2023) ["Using sequences of life-events to predict human lives"](https://doi.org/10.1073/pnas.1915006117), _Nature Computational Science_.  <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />  For this class, we will read to [arXiv](https://arxiv.org/abs/2306.03009) version of the paper.
 
 ### Wednesday, March 20: Life trajectories, part 2 (Matt)
 
