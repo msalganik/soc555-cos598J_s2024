@@ -122,6 +122,7 @@ No required reading before class.
 - Garip (2020) ["What failure to predict life outcomes can teach us"](https://doi.org/10.1073/pnas.2003390117), _PNAS_. 
 <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Salganik et al. (2020) ["Measuring the predictability of life outcomes with a scientific mass collaboration"](https://doi.org/10.1073/pnas.1915006117), _PNAS_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Sign up for the [Predicting Fertility data challenge](https://stulp.gmw.rug.nl/prefer/) (see [assignments page](https://msalganik.github.io/soc555-cos598J_s2024/assignments.html#assignment-2-participate-in-the-predicting-fertility-data-challenge) for more information)  
 
 ### Wednesday, March 20: Life trajectories, part 2 (Matt)
 
