@@ -132,17 +132,18 @@ No required reading before class.
 
 ### Monday, March 25: Measuring predictability (Arvind)
 
+- [Pre-read](https://docs.google.com/document/d/e/2PACX-1vTCtE8Ddfd5aD_1upmXMQQKfwFqC9ARvclmAs2lZQFhDE4OpXqwmVpcXCjVBOJw7QGIJeJpFeTiQehg/pub)
 - Fawcett (2006) [An introduction to ROC analysis](https://www.math.ucdavis.edu/~saito/data/roc/fawcett-roc.pdf), _Pattern Recognition Letters_.
 - McCutcheon, [The logarithmic scoring rule of decision theory](http://web0.msci.memphis.edu/~randall/preprints/Pool3.pdf) (Section 5 is optional)
 - Kvålseth, [Cautionary note about R²](https://www.jstor.org/stable/2683704?seq=1), _The American Statistician_.
 - Ford (2015), [Is R-squared Useless?](https://data.library.virginia.edu/is-r-squared-useless/).
-- Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
 ### Wednesday, March 27: Uncertainty about uncertainty (Matt)
 
-### Monday, April 1: Distribution shifts (Arvind)
+### Monday, April 1: Common pitfalls (Arvind)
+- Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
-### Wednesday, April 3: Time (Arvind)
+### Wednesday, April 3: Benchmarks: current status and future directions (Arvind)
 
 ### Monday, April 8: Second taming of chance? Predictions about individuals and populations (Matt)
 
@@ -152,7 +153,7 @@ No required reading before class.
 
 ### Wednesday, April 17: Strategic behavior (Arvind)
 
-### Monday, April 22: Benchmarks: current status and future directions (Arvind)
+### Monday, April 22: Time (Arvind)
 
 ### Wednesday, April 24: The future is open (Matt)
 
