@@ -138,9 +138,16 @@ No required reading before class.
 - Kvålseth, [Cautionary note about R²](https://www.jstor.org/stable/2683704?seq=1), _The American Statistician_.
 - Ford (2015), [Is R-squared Useless?](https://data.library.virginia.edu/is-r-squared-useless/).
 
-### Wednesday, March 27: Uncertainty about uncertainty (Matt)
+### Wednesday, March 27: Uncertainty about uncertainty: Ideas from national security, prediction markets, and climate science (Matt)
+
+- [Pre-read](https://docs.google.com/document/d/16J37knrN-8i6REBXnrcPrc1zdpayf38L47mb2ohblV8/edit?usp=sharing)
+- Alexander (2024). ["In Continued Defense Of Non-Frequentist Probabilities"](https://www.astralcodexten.com/p/in-continued-defense-of-non-frequentist), _Blog post_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Friedman and Zeckhauser. (2018) ["Analytic confidence and political decision-making: Theoretical principles and experimental evidence from national security professionals"](https://www.jstor.org/stable/45094450), _Political Psychology_. (focus on theoretical framework, you should skim experiments) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Freeman et al. (2021) ["Toward a theory of confidence in market-based predictions"](https://proceedings.mlr.press/v147/freeman21a.html), _Proceedings of Machine Learning Research_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Parker and Risbey. (2015) ["False precision, surprise and improved uncertainty assessment"](https://dx.doi.org/10.1098/rsta.2014.0453) _Philosophical Transactions A_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
 ### Monday, April 1: Common pitfalls (Arvind)
+
 - Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 
 ### Wednesday, April 3: Benchmarks: current status and future directions (Arvind)
