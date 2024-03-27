@@ -151,7 +151,7 @@ No required reading before class.
 - [Pre-read](https://docs.google.com/document/d/e/2PACX-1vRfYXOSZ0LkfXyuUVlSgtahbyIgOUPyQJnGgHNG_stwhorXTVuvfrTZmcL5CfsxaqZoV0GErLgULIZn/pub)
 - Kapoor, S., & Narayanan, A. (2023). [Leakage and the reproducibility crisis in machine-learning-based science](https://www.cell.com/patterns/pdfExtended/S2666-3899(23)00159-9). _Patterns_, 4(9). Elsevier.
 - Kapoor, S., Cantrell, E., Peng, K., Pham, T. H., Bail, C. A., Gundersen, O. E., Hofman, J. M., Hullman, J., Lones, M. A., Malik, M. M., et al. (2023). [Reforms: Reporting standards for machine learning based science](https://arxiv.org/abs/2308.07832). _arXiv preprint arXiv:2308.07832_.
-- Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.jstor.org/stable/24918297) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Hofman et al. (2017) ["Prediction and Explanation in Social Systems"](https://www.science.org/doi/10.1126/science.aal3856) <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Lipton, Z. C., & Steinhardt, J. (2018) [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341).
 - Sainz, O., Campos, J., García-Ferrero, I., Etxaniz, J., de Lacalle, O. L., & Agirre, E. (2023). [NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark](https://aclanthology.org/2023.findings-emnlp.722.pdf). In _Findings of the Association for Computational Linguistics: EMNLP 2023_ (pp. 10776-10787).
 
