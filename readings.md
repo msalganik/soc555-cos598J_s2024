@@ -157,7 +157,13 @@ No required reading before class.
 
 
 
-### Wednesday, April 3: Benchmarks: current status and future directions (Arvind)
+### Wednesday, April 3: Benchmarks (Arvind)
+- [Pre-read](https://docs.google.com/document/d/e/2PACX-1vSbsxFJpyrW9KRW4eUZPZ9n3Gx9Bg-ODWY_ZPu0CMauTPxdN8I74jh3nB327_aTD7nxjG75WVHDEIpb/pub)
+- Marc Liberman (2015) ["Reproducible Research and the Common Task Method"](https://www.simonsfoundation.org/lecture/reproducible-research-and-the-common-task-method), _Simons Foundation Lecture_.
+- Solon Barocas, Moritz Hardt, and Arvind Narayanan (2023). Fairness and Machine Learning: Limitations and Opportunities, _MIT Press_. Chapter 8: ["Datasets"](https://fairmlbook.org/datasets.html)
+- Jake M. Hofman, Angelos Chatzimparmpas, Amit Sharma, Duncan J. Watts, Jessica Hullman (2023). ["Pre-registration for Predictive Modeling"](https://arxiv.org/abs/2311.18807), _arXiv_.
+- Josh Gardner, Zoran Popovic, Ludwig Schmidt (2024). ["Benchmarking Distribution Shift in Tabular Data with TableShift"](https://proceedings.neurips.cc/paper_files/paper/2023/file/a76a757ed479a1e6a5f8134bea492f83-Paper-Datasets_and_Benchmarks.pdf), _Advances in Neural Information Processing Systems, Volume 36_.
+
 
 ### Monday, April 8: Second taming of chance? Predictions about individuals and populations (Matt)
 
