@@ -167,7 +167,7 @@ No required reading before class.
 
 ### Monday, April 8: Second taming of chance? Predictions about individuals and populations (Matt)
 
-- Pre-read coming soon
+- [Pre-read](https://docs.google.com/document/d/1PQ2igAF1oMiVDxqfMlIK6zauviXjcepJ84xkSAekLCM/edit?usp=sharing)
 - Ian Hacking (1990). _The Taming of Chance_. ["Chapter 1: The argument"](https://doi.org/10.1017/CBO9780511819766.001 ). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - George Davey Smith (2011) ["Epidemiology, epigenetics and the ‘Gloomy Prospect’: embracing randomness in population health research and practice"](https://doi.org/10.1093/ije/dyr117) _International Journal of Epidemiology_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
