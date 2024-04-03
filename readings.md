@@ -167,7 +167,17 @@ No required reading before class.
 
 ### Monday, April 8: Second taming of chance? Predictions about individuals and populations (Matt)
 
+- Pre-read coming soon
+- Ian Hacking (1990). _The Taming of Chance_. ["Chapter 1: The argument"](https://doi.org/10.1017/CBO9780511819766.001 ). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- George Davey Smith (2011) ["Epidemiology, epigenetics and the ‘Gloomy Prospect’: embracing randomness in population health research and practice"](https://doi.org/10.1093/ije/dyr117) _International Journal of Epidemiology_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+
 ### Wednesday, April 10: What's your West Antarctic Iceberg? Isolating sources of uncertainty (Matt)
+
+- Pre-read coming soon.
+- Kopp et al. (2023) ["Communicating future sea-level rise uncertainty and ambiguity to assessment users"](https://doi.org/10.1038/s41558-023-01691-8) _Nature Climate Change_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Piecuch and Das (2022) ["Through an Ice Sheet, Darkly"](https://doi.org/10.1029/2022EF003310) _Advancing Earth and Space Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Bamber et al. (2022) ["Ice Sheet and Climate Processes Driving the Uncertainty in Projections of Future Sea Level Rise: Findings From a Structured Expert Judgement Approach"](https://doi.org/10.1029/2022EF002772) _Advancing Earth and Space Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+
 
 ### Monday, April 15: Killing Laplace's Demon (Matt)    
 
