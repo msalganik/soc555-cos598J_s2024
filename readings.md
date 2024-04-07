@@ -173,7 +173,7 @@ No required reading before class.
 
 ### Wednesday, April 10: What's your West Antarctic Iceberg? Isolating sources of uncertainty (Matt)
 
-- Pre-read coming soon.
+- [Pre-read](https://docs.google.com/document/d/1WCTD0IjkR_8byq4fEl8V6-ymSd3dVxWw9We5fVkhoa4/edit?usp=sharing).
 - Kopp et al. (2023) ["Communicating future sea-level rise uncertainty and ambiguity to assessment users"](https://doi.org/10.1038/s41558-023-01691-8) _Nature Climate Change_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Piecuch and Das (2022) ["Through an Ice Sheet, Darkly"](https://doi.org/10.1029/2022EF003310) _Advancing Earth and Space Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Bamber et al. (2022) ["Ice Sheet and Climate Processes Driving the Uncertainty in Projections of Future Sea Level Rise: Findings From a Structured Expert Judgement Approach"](https://doi.org/10.1029/2022EF002772) _Advancing Earth and Space Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
