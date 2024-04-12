@@ -178,8 +178,14 @@ No required reading before class.
 - Piecuch and Das (2022) ["Through an Ice Sheet, Darkly"](https://doi.org/10.1029/2022EF003310) _Advancing Earth and Space Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Bamber et al. (2022) ["Ice Sheet and Climate Processes Driving the Uncertainty in Projections of Future Sea Level Rise: Findings From a Structured Expert Judgement Approach"](https://doi.org/10.1029/2022EF002772) _Advancing Earth and Space Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 
-
 ### Monday, April 15: Killing Laplace's Demon (Matt)    
+
+Pre-read coming soon.
+- Wikipedia. [Laplace's Demon](https://en.wikipedia.org/wiki/Laplace%27s_demon). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Frigg et al. (2014) [Laplace’s Demon and the Adventures of His Apprentices](https://doi.org/10.1086/674416), _Philosophy of Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
+- Wolfram (2002) _A New Kind of Science_, Chapter 12, part 6: [Computational irreducibility](https://www.wolframscience.com/nks/chap-12--the-principle-of-computational-equivalence#sect-12-6--computational-irreducibility). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
+- Cartwright (2012) _The Dappled World: A Study of the Boundaries of Science_. [Introduction](https://www.cambridge.org/core/books/dappled-world/introduction/248A527CF366A151C36EB17D973C4AA3). 
+
 
 ### Wednesday, April 17: Strategic behavior (Arvind)
 
