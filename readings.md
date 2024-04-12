@@ -182,6 +182,13 @@ No required reading before class.
 ### Monday, April 15: Killing Laplace's Demon (Matt)    
 
 ### Wednesday, April 17: Strategic behavior (Arvind)
+- [Pre-read](https://docs.google.com/document/d/e/2PACX-1vSMyjJRvllbhjBRy2F9KodeoBwO0E314hBCpfpTwKfDgq6oB7WFF7_g3ijhacWgneeOrkjGlQjDPYBM/pub)
+- Arvind Narayanan, Sayash Kapoor (2024). _Why is it hard to predict pandemics?_ (Available on Ed.)
+- Chadefaux, Thomas (2017). ["Conflict forecasting and its limits"](https://content.iospress.com/articles/data-science/ds002), Data Science, 1(1-2), 7–17.
+- Bambauer, Jane and Zarsky, Tal (2018). ["The algorithm game"](https://scholarship.law.nd.edu/ndlr/vol94/iss1/1/), Notre Dame L. Rev., 94, 1.
+- Zou, Andy and Wang, Zifan and Kolter, J Zico and Fredrikson, Matt (2023). ["Universal and transferable adversarial attacks on aligned language models"](https://arxiv.org/abs/2307.15043), arXiv preprint arXiv:2307.15043.
+- Manheim, David and Garrabrant, Scott (2018). ["Categorizing variants of Goodhart's Law"](https://arxiv.org/abs/1803.04585), arXiv preprint arXiv:1803.04585.
+
 
 ### Monday, April 22: Time (Arvind)
 
