@@ -180,7 +180,7 @@ No required reading before class.
 
 ### Monday, April 15: Killing Laplace's Demon (Matt)    
 
-Pre-read coming soon.
+- [Pre-read](https://docs.google.com/document/d/1zFMeC-_UaeS-U_iw6JpI6e_HE7kQCEX37QWZHW1AMBM/edit?usp=sharing).
 - Wikipedia. [Laplace's Demon](https://en.wikipedia.org/wiki/Laplace%27s_demon). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
 - Frigg et al. (2014) [Laplace’s Demon and the Adventures of His Apprentices](https://doi.org/10.1086/674416), _Philosophy of Science_. <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/closed.png" style="display: inline; height: 14px;" />
 - Wolfram (2002) _A New Kind of Science_, Chapter 12, part 6: [Computational irreducibility](https://www.wolframscience.com/nks/chap-12--the-principle-of-computational-equivalence#sect-12-6--computational-irreducibility). <img src="https://msalganik.github.io/soc555-cos598J_s2024/images/open.png" style="display: inline; height: 14px;" />
