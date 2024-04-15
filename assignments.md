@@ -69,24 +69,24 @@ Your assingment has three main parts:
 
 *Title and abstract* (5 points)
 
-  5 pts – Clear and correct
-  3 pts - Problems with clarity or correctness
-  1 pts - Problems with clarity and correctness
+- 5 pts: Clear and correct
+- 3 pts: Problems with clarity or correctness
+- 1 pt: Problems with clarity and correctness
 
 *State and test one hypothesis about predictability* (20 points)
 
-  16-20 pts – Thorough investigation with no obvious holes. Clear connection to some of the ideas in class or discussion of why such conncetion is not possible.
-  11-15 pts – Covered a few bases but left some obvious holes.
-  5-10 pts – Left gaping holes in the investigation / incorrect data analysis etc.
+- 16-20 pts: Thorough investigation with no obvious holes. Clear connection to some of the ideas in class or discussion of why such conncetion is not possible.
+- 11-15 pts: Covered a few bases but left some obvious holes.
+- 5-10 pts: Left gaping holes in the investigation / incorrect data analysis etc.
 
 *Submit a model to PreFer by April 26, 2024* (20 points)
 
-  20 pts – Correctly submit some model following rules of PreFer (partial credit possible).
+- 20 pts: Correctly submit some model following rules of PreFer (partial credit possible).
 
- *Quality of writing and presentation* (25 points)
+*Quality of writing and presentation* (25 points)
 
 This includes linguistic clarity, exposition of technical concepts, logical structure, justification of claims, explanation of background concepts, quality of figures, and discussion of results.
 
-    25 pts – The writing makes the work more interesting and accessible
-    21-24 pts – The writing does not add too nor detract from the research itself
-    10-20pts – The writing interferes with the reader’s ability to learn from work
+- 25 pts: The writing makes the work more interesting and accessible
+- 21-24 pts: The writing does not add too nor detract from the research itself
+- 10-20pts: The writing interferes with the reader’s ability to learn from work
