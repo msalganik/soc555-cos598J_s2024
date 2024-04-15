@@ -197,6 +197,8 @@ No required reading before class.
 
 
 ### Monday, April 22: Time (Arvind)
+No readings.
 
 ### Wednesday, April 24: The future is open (Matt)
+No readings.
 
